@@ -16,3 +16,9 @@
 - 使用方法:
 
   打开exe, 粘贴active code到激活窗口激活即可。
+
+windows版本下载:
+[https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe)
+
+
+### 好用的话麻烦您点个star吧，虽然很不道德，但是应该也会有人需要的吧。
