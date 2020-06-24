@@ -4,18 +4,20 @@ import zipfile
 import subprocess
 import clipboard
 
+
 class Xiaomeng(object):
 
     URL = "http://idea.medeming.com/jets/images/jihuoma.zip"
+    TIMEOUT = 10
 
     def download(self):
         try:
-            r = requests.get(Xiaomeng.URL, timeout=10)
+            r = requests.get(Xiaomeng.URL, timeout=Xiaomeng.TIMEOUT)
             return r.content
         except Exception as e:
             print("下载激活码失败. error: ", e)
         return None
-    
+
     def fetch_zip(self):
         content = None
         for _ in range(3):
@@ -38,13 +40,12 @@ class Xiaomeng(object):
                     return file
 
     def copy_windows(self, file):
-        with open(file, mode='r',encoding='utf-8') as data:
+        with open(file, mode='r', encoding='utf-8') as data:
             clipboard.copy(data.read())
 
     def clean(self, file):
         os.remove("temp.zip")
         os.remove(file)
-
 
 
 if __name__ == "__main__":

@@ -20,5 +20,9 @@
 windows版本下载:
 [https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe)
 
+Mac版本下载:
+[https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip)
+
+- ps: windows直接执行exe即可, mac需要解压zip然后执行程序
 
 ### 好用的话麻烦您点个star吧，虽然很不道德，但是应该也会有人需要的吧。
