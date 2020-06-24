@@ -1,19 +1,21 @@
 # itsnotwell
 
+- windows版本下载:
+  [https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe)
+
+- Mac版本下载:
+  [https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip)
+
+
 - 使用方法:
 
   windows直接执行exe即可, mac需要解压zip然后执行程序, 粘贴到active code激活窗口激活即可。
 
   (执行程序会自动复制激活码到你的剪贴板)
 
-windows版本下载:
-[https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.exe)
+---
 
-Mac版本下载:
-[https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip](https://github.com/wuranxu/itsnotwell/releases/download/1.0.0/sorry.zip)
-
-
-事情是这样的。晚上11点下班到家，打开IDEA，又弹出了这个熟悉的页面：
+#### 事情是这样的。晚上11点下班到家，打开IDEA，又弹出了这个熟悉的页面：
 
 
 ![image.png](https://upload-images.jianshu.io/upload_images/6053915-e82a4ba59cc98cb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
