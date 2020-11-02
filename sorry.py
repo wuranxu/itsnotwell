@@ -35,7 +35,7 @@ class Xiaomeng(object):
                 print("写入文件出错, error: ", e)
             zp = zipfile.ZipFile("temp.zip")
             for file in zp.namelist():
-                if "later" in file:
+                if "2018" in file or 'later' in file:
                     zp.extract(file)
                     return file
 
